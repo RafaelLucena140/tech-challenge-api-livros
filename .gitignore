@@ -12,7 +12,7 @@ pycache/
 
 Arquivos de Dados Gerados (NÃO fazer commit do CSV)
 
-/data/*.csv
+/data/*.csv  <- Linha removida/comentada para o deploy
 
 Pastas de IDE
 
