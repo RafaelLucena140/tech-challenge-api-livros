@@ -1,0 +1,20 @@
+Ambientes Virtuais
+
+.venv/
+venv/
+env/
+
+Cache do Python
+
+pycache/
+*.pyc
+*.pyo
+
+Arquivos de Dados Gerados (NÃO fazer commit do CSV)
+
+/data/*.csv
+
+Pastas de IDE
+
+.vscode/
+.idea/
